@@ -1,0 +1,71 @@
+
+gpio1_28: 
+	gpio60 = 1*32 +28
+	pino fisico 12
+	valor 0;
+
+gpio1_16:
+	gpio48 = 1*32 + 16
+	pino fisico 15
+	valor 1;
+
+						gpio3_25:
+						gpio3_21
+						gpio117 = 3*32 + 21
+						pino fisico 25
+						VALOR 2;
+
+gpio3_19:
+	gpio3_19
+	gpio115 = 3*32 + 21
+	pino fisico 27xz
+	VALOR 3
+
+
+Saidas - P8
+
+gpio1_14:
+	gpio46 = 1*32 + 14
+	pino fisico 16 
+	LED 0
+
+gpio2_1:
+	gpio65 = 2*32 + 1
+	pino fisico 18
+	LED 1
+
+gpio2_13:
+	gpio77 = 2*32 + 13
+	pino fisico 40
+	led 2
+
+gpio2_11:
+	gpio75 = 2*32 + 11
+	PINO fisico 42
+	LED 3
+
+//Quando Errado
+gpio2_9:
+	gpio73 = 2*32 + 9
+	pino fisico 44
+	led Errado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
